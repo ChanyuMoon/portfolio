@@ -1,5 +1,6 @@
 title: Chanyu Moon
 logo: /assets/img/headshot.jpeg
-#description: text below image
+description: [cv](), [scholr](https://scholar.google.com/citations?hl=ko&user=l9m2FnQAAAAJ&view_op=list_works&gmla=AOv-ny9DsJGv4hvrmkwzkQ1cEgpMwCDR970UmxZ3N7SV3a4Dlm_iVlBUXitqVo5yJLbwvRNc-Mauupg--xHyhdqGDeWMOyOZKwUoq1-PnUErZTnulV4-h1cMdQ)
 show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
